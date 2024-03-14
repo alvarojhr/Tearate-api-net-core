@@ -1,0 +1,6 @@
+@Tearate_HostAddress = http://localhost:5023
+
+GET {{Tearate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
